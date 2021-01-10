@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee267092a9034ad41a4c9e5a39876380, type: 3}
+  m_Name: Fox Speech 001
+  m_EditorClassIdentifier: 
+  charId: 0
+  priority: 0
+  subtitles:
+  - text: Open the wings!;
+    speach: {fileID: 8300000, guid: 8496ee95b8d05d942b659d0c8b0e28e8, type: 3}

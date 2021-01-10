@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ced763d096227a41a289dedf28686cd, type: 3}
+  m_Name: PlayerParameters
+  m_EditorClassIdentifier: 
+  physicMovement: 0
+  trackSpeed: 40
+  allRangeSpeed: 40
+  smoothAllRangeMovement: 0.1
+  localSpeed: 20
+  smoothLocalSpeed: 0.2
+  boostSpeed: 50
+  breakSpeed: 20
+  aimSpeed: 5000
+  smoothAimSpeed: 0.1
+  smoothRotateSpeed: 2
+  leanAngle: 85
+  horizontalLeanLimit: 35
+  leanSpeed: 0.1
+  barrelRollSpeed: 0.3
+  acrobaticSomersultSpeed: 45
+  acrobaticUTurnSpeed: 35
+  timeCharged: 0.3
+  amountBoostIncrease: 0.5
+  amountBoostDecrease: 0.75
+  maxSmartBomb: 7
+  spaceWings: {x: 1, y: 60, z: 15}
+  atmosphereWings: {x: 15, y: 60, z: 25}
+  allRangeWings: {x: 40, y: 45, z: 45}
+  movementInput: {x: 0, y: 0}
+  leanAxisInput: 0
+  lifeAmount: 100
+  buffAmount: 100
+  numLifes: 1
+  numSmartBombs: 2
+  numGoldRings: 0
+  isDamageEffect: 0
+  shipState: 1
+  leanState: 0
+  buffState: 0
+  acrobaticState: 0
+  weaponState: 0
+  chargeWeaponState: 0
+  enemyDetectionState: 0

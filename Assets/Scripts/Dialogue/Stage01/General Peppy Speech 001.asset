@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee267092a9034ad41a4c9e5a39876380, type: 3}
+  m_Name: General Peppy Speech 001
+  m_EditorClassIdentifier: 
+  charId: 4
+  priority: 0
+  subtitles:
+  - text: Star Fox, do you read me?;
+    speach: {fileID: 8300000, guid: bce376dcd4314234db9f7f52500ea2f9, type: 3}
+  - text: We're under attack from Andross's army.;
+    speach: {fileID: 8300000, guid: a4d7edc077c2cb647972e9f058c01f06, type: 3}
+  - text: We need your help immediately!;
+    speach: {fileID: 8300000, guid: 35b402cb566269747850578d13ca1544, type: 3}
