@@ -4,7 +4,7 @@
 
 ## [Unity3D] Star Fox Prototype | Sky Fly Games
 
-This is the repository of a Unity3D game made as object of study.
+This is the repository of an Unity3D game made as object of study.
 
 ### Unity Version
 
